@@ -13,3 +13,5 @@
 * Learn about randomisation and how to generate random numbers in Swift.
 
 
+<img width="287" alt="Screenshot 2025-05-01 at 21 02 27" src="https://github.com/user-attachments/assets/f8735efd-ec69-45a4-af02-47052678751f" />
+<img width="280" alt="Screenshot 2025-05-01 at 21 02 36" src="https://github.com/user-attachments/assets/0b86868d-a869-4f55-825f-0ab8a21e8b39" />
